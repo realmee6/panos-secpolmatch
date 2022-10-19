@@ -26,4 +26,4 @@ The following libraries are required in order to run this script:
 3. Web Interface.
 
 ## Video
-[![asciicast](https://asciinema.org/a/530266.svg)](https://asciinema.org/a/530266)
+[![asciicast](https://asciinema.org/a/530268.svg)](https://asciinema.org/a/530268)
