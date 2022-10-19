@@ -1,0 +1,12 @@
+sourceip,sourcezone,destinationip,destinationzone,proto,appid,port
+1.1.1.1,Trust,8.8.8.8,Untrust,17,dns,53
+1.1.1.1,Trust,8.8.8.8,Untrust,6,web-browsing,80
+1.1.1.1,Trust,8.8.8.8,Untrust,6,any,443
+12.33.44.11,Untrust,10.1.44.3,Trust,6,web-browsing,80
+12.33.44.41,Untrust,10.1.44.7,Trust,6,ssl,443
+1.1.1.1,Trust,8.8.8.8,Untrust,6,ssl,443
+7.6.5.4,Untrust,8.8.8.8,Untrust,6,web-browsing,80
+1.1.1.1,Trust,8.8.8.8,Untrust,6,any,443
+12.33.34.11,Untrust,10.1.44.3,Trust,6,web-browsing,80
+12.33.54.41,Untrust,10.1.44.7,Trust,6,ssl,443
+6.5.4.3,Trust,8.8.8.8,Untrust,17,dns,53
