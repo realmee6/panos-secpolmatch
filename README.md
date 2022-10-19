@@ -8,13 +8,13 @@ This is a sample script that I have found to be extremely useful to check if the
 All parameters in the CSV file are mandatory for the script to execute successfully. The validate.csv file provided in the repository is a dummy one and should be replaced with real values for your scenario.
 
 The CSV file must contain the following:
-    sourceip: source IP for the traffic flow
-    sourcezone: source zone for the traffic flow (case sensitive)
-    destinationip: destination IP for the traffic flow
-    destinationzone: destination zone for the traffic flow (case sensitive)
-    proto: protocol number, e.g. 17 for UDP and 6 for TCP.
-    appid: web-browsing, dns, ssl etc... (case sensitive)
-    port: 443, 80, 53 etc...
+- sourceip: source IP for the traffic flow
+- sourcezone: source zone for the traffic flow (case sensitive)
+- destinationip: destination IP for the traffic flow
+- destinationzone: destination zone for the traffic flow (case sensitive)
+- proto: protocol number, e.g. 17 for UDP and 6 for TCP.
+- appid: web-browsing, dns, ssl etc... (case sensitive)
+- port: 443, 80, 53 etc...
 
 ## Prerequisites
 The following libraries are required in order to run this script:
